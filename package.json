@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sungl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy start with ESLint, Prettier, and TypeScript",
   "keywords": [
     "javascript",

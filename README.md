@@ -18,9 +18,9 @@ npx install-peerdeps --dev eslint-config-sungl
 
 ```
 {
-    "extends": [
-        "sungl"
-    ]
+    "extends": ["sungl"],
+    // add files or folders to be ignored per your project
+    "ignorePatterns": [".next/*", "node_modules/*", "out/*", "public/*", "temp.js", "**/vendor/*.js"]
 }
 ```
 
